@@ -11,8 +11,8 @@ Personne ayant besoin de travaux chez eux, 1h autour de Dreux
 ## Les éléments importants
 * Logo
 * Page contact
-..*Adresse mail 
-..*Numero de portable / Numero de telephone fixe
+...Adresse mail 
+...Numero de portable / Numero de telephone fixe
 ..*Devis
 * Page equipe
 ..*Photo des ouvriers et du patron avec description
