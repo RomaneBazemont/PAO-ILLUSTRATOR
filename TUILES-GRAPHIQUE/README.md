@@ -20,11 +20,14 @@ Personne ayant besoin de travaux chez eux, 1h autour de Dreux
 * Page Photo (Texte principal évolution de chantier, Photo chantier (après travaux) avec description du chantier (objectif, nom ville/village) quand on clique dessus, on a un panel de photo allant d'avant le chantier jusqu'au résultat final)
 
 ## Style
+
 * Défilement horizontale
 * photo chantier fini en background avec un noir pardessus avec opacité réduite. Même background pour toutes les pages, blocks de texte qui apparaissent suivant les pages
 * crème, marron, noir, blanc
 
 
 ## Les ressources
-http://www.themestreet.net/templates/html5/berliner-bootstrap-html5-template
-http://www.giellesse.it/#/profile
+
+* http://www.themestreet.net/templates/html5/berliner-bootstrap-html5-template
+* http://www.giellesse.it/#/profile
+* http://www.cote-cheminees.com
